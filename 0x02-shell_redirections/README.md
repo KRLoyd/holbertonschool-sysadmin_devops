@@ -1,0 +1,1 @@
+Some work with Shell redirections and filters.
